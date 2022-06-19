@@ -1,2 +1,2 @@
 # dev-academy-webapi-angular
- Web based platform for online learning ASP .NET MVC
+ RESTful web based platform for online learning ASP .NET Web Api.
